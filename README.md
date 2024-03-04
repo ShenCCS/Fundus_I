@@ -10,9 +10,9 @@
 ## Data Preprocessing _ Row data
 > Route: /john/network/RETFound/data/
 > 
-> Row data(Zip from Keelung) :/john/network/RETFound/data/Zip
+> Raw data(Zip from Keelung) :/john/network/RETFound/data/Zip
 > 
-> Row data(unzip)_images : /john/network/RETFound/data/dataset
+> Raw data(unzip)_images : /john/network/RETFound/data/dataset
 > 
 * code: RETFound_data_preprocessing.ipynb (Move file together)
 

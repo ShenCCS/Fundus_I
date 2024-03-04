@@ -23,4 +23,5 @@
 >
 * code : RETFound_data_preprocessing.ipynb (ID)
 > split Training & validation & Testing data for RETFound model
- code : RETFound_data_preprocessing.ipynb (Training validaion Testing)
+> 
+* code : RETFound_data_preprocessing.ipynb (Training validaion Testing)

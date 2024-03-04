@@ -3,7 +3,8 @@
 >
 ## Enviroment
 * python 3.7.5 
-* conda env : retfound
+* conda env : retfound & gpu
+* Model execution environment : Nvidia A5000
 > link : https://github.com/rmaphoh/RETFound_MAE
 
 ## Data Preprocessing _ Row data

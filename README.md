@@ -11,9 +11,16 @@
 > 
 > Row data(unzip)_images : /john/network/RETFound/data/dataset
 > 
-> Row data(unzip)_ID : /john/network/RETFound/data/Images_Files
-> 
-* code: FileMoveTogether.ipynb
+* code: RETFound_data_preprocessing.ipynb (Move file together)
 
 ## Data Preprocessing _ Images select ROI
-> Route : /john/network/RETFound/data/ROI
+> Image Route : /john/network/RETFound/data/ROI
+>
+* code: RETFound_data_preprocessing.ipynb (ROI)
+
+## Data Preprocessing _ ID classification
+> Files Route : /john/network/RETFound/data/Images_Files
+>
+* code : RETFound_data_preprocessing.ipynb (ID)
+> split Training & validation & Testing data for RETFound model
+ code : RETFound_data_preprocessing.ipynb (Training validaion Testing)

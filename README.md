@@ -1,4 +1,5 @@
 # Fundus Image for RETFound model and ViT model
+## Training data not split by ID
 ## Enviroment
 * python 3.7.5 
 * conda env : retfound

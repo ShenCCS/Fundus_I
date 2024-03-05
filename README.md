@@ -22,7 +22,7 @@
 * code: RETFound_data_preprocessing.ipynb (ROI)
 
 # model(RETFound)
-> code File : /john/network/RETFound_MAE-main/Newdata/RETFound
+> code File : /john/network/RETFound_MAE-main/Fundus_I/RETFound
 * code : Age(2521).ipynb、BMI(2521).ipynb....
 * Note : GPU -> A5000
 
